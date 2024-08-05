@@ -29,15 +29,11 @@ h3 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-display: block;
-    color: coral;
-}
-
-h4 {
-    font-size: 14px;
-    text-decoration:underline;
+    color: #9E9A3A;
 }
 
 footer {
+    color: #e7d736;
     text-align: center;
     font-weight: 100;
 }
@@ -46,20 +42,25 @@ footer {
     color: white;
             font-size: 22px;
             font-weight: 700;
-            letter-spacing: 8px;
+            letter-spacing: 4px;
             margin-bottom: 20px;
             position: relative;
-            animation: text 3s 1;
+            animation: text 2s 1;
         }
 
 .albums {
-    color: white;
-    text-align: center;
-            font-size: 10px;
-            font-weight: lighter;
+    color: #e7d736;
+            font-weight: normal;
             margin-bottom: 20px;
             position: relative;
             animation: text 3s 1;
+}
+
+.albums-2 {
+    text-align: center;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
 }
 .container {
  display: block;
