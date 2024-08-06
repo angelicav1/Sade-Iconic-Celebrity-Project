@@ -32,6 +32,12 @@ h3 {
     color: #9E9A3A;
 }
 
+.links {
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 footer {
     color: #e7d736;
     text-align: center;
