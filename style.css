@@ -89,6 +89,16 @@ box-shadow: 2px;
             animation: text 3s 1;
 }
 
+.col {
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+.song-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
  @keyframes text {
             0% {
                 color: black;
