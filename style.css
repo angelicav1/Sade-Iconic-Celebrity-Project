@@ -59,6 +59,18 @@ footer {
             animation: text 2s 1;
         }
 
+.btn {
+    background-color: whitesmoke;
+    color: #e7d736;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 16px;
+    margin-bottom: 26px;
+    padding: 10px;
+    
+}
+
 .albums {
     color: #e7d736;
             font-weight: normal;
